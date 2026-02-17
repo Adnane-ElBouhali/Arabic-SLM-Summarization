@@ -20,7 +20,7 @@ This repo implements and compares:
 
 ### Evaluation
 - Automatic metrics: **ROUGE-1/2/L** + **BERTScore** (Arabic).
-- Baseline vs fine-tuned comparisons are documented in `report.pdf` and `presentation.pdf` (provided separately).
+- Baseline vs fine-tuned models.
 
 ---
 
