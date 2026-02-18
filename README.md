@@ -1,6 +1,6 @@
 # Fine-tuning a Small Language Model for Arabic Summarization
 
-This project was done in the class **Introduction to Text Mining and NLP (CSC 52082 EP)** at **École Polytechnique**.
+This project was done in the class **Introduction to Text Mining and NLP (CSC_52082_EP)** at **École Polytechnique**.
 
 This repository contains the code and data for a project that fine-tunes a **small decoder-only language model** for **Arabic news summarization**, and compares multiple fine-tuning strategies under **limited GPU resources** (e.g., Google Colab free-tier).
 
